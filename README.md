@@ -17,3 +17,4 @@ ___
 
 ## Полезные ссылочки:
 1. [Дистиляция Берта](https://github.com/elephantmipt/bert-distillation)
+2. [Математика в дистиляции](https://leeyngdo.github.io/blog/deep-learning/2024-01-21-knowledge-distillation/?utm_source=chatgpt.com)
